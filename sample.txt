@@ -1,0 +1,11 @@
+git clone <git repo url>   -- Clone any repository in local
+
+git status --- To know status of current sititation 
+
+git add <file name>   to add new file 
+
+
+git commit -m <message >
+
+git push -- > to push our changes on github
+
