@@ -9,3 +9,6 @@ git commit -m <message >
 
 git push -- > to push our changes on github
 
+git config --global user.name
+git cinfig --global user.email
+git status --- to know status of current situation
