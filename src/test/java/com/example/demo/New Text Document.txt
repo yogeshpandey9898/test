@@ -1,0 +1,4 @@
+status -- apne document k status ko chek krna
+
+git config -- global user.name
+git add -A
